@@ -3,7 +3,7 @@
 [![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)
 
 ## 製品概要
-### 物流 Tech（X → 今回皆さんが選定した好きな言葉に書き換えてください）
+### 物流 X Tech
 
 ### 背景（製品開発のきっかけ、課題等）
 2017年4月7日に宅配大手のヤマト運輸が，Web通販サービスのアマゾン・ジャパンの
@@ -15,8 +15,7 @@
 
 
 ### 製品説明（具体的な製品の説明）
-#こちらに製品の概要・特徴について説明を記載してください。
-宅配荷物を入れるケースにRaspberry Piを搭載して現時刻におけるケースの位置情報や持ち主の写真をデバイスに送信するモジュール。
+宅配荷物を入れるケースにRaspberry Piを搭載して現時刻におけるケースの位置情報やセキュリティのために写真をメールで送信することができる．
 
 
 ### 特長
