@@ -20,7 +20,7 @@
 
 ### 特長
 
-![System]()
+![System Image](https://github.com/jphacks/TK_1705/blob/master/image/jphacks2017_tk1705_01.png)
 
 #### 1. 特長1
 Raspberry Piを用いているので電源はUSB供給でよい。
