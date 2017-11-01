@@ -1,7 +1,7 @@
 # あ、居なかったんで玄関先に置いときますね。
  
 -[![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=G5rULR53uMk) 
-+[![Product Name](https://github.com/jphacks/TK_1705/tree/master/image/samne.png)](https://youtu.be/SxLu6f-hn-4)
++[![Product Name](/image/samne.png)](https://youtu.be/SxLu6f-hn-4)
 
 ## 製品概要
 ### 物流 X Tech
