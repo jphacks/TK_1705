@@ -1,10 +1,6 @@
 # あ、居なかったんで玄関先に置いときますね。
 
-<<<<<<< HEAD
 ![Product Name](https://github.com/jphacks/TK_1705/blob/master/jphacks.mp4)
-=======
-[![Product Name](https://github.com/jphacks/TK_1705/tree/master/image/samne.png)](https://youtu.be/SxLu6f-hn-4)
->>>>>>> b84e07e3ff0c06d1909f3dc9ddcc806cdf642a0a
 
 ## 製品概要
 ### 物流 X Tech
