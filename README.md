@@ -1,6 +1,6 @@
 # あ、居なかったんで玄関先に置いときますね。
 
-[![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://github.com/jphacks/TK_1705/jphacks.mp4)
+![Product Name](https://github.com/jphacks/TK_1705/jphacks.mp4)
 
 ## 製品概要
 ### 物流 X Tech
