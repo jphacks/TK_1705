@@ -1,6 +1,6 @@
 # あ、居なかったんで玄関先に置いときますね。
 
-[![Product Name](https://github.com/jphacks/TK_1705/tree/master/image/スクリーンショット 2017-11-01 20.30.45.png)](https://youtu.be/SxLu6f-hn-4)
+[![Product Name](https://github.com/jphacks/TK_1705/tree/master/image/samne.png)](https://youtu.be/SxLu6f-hn-4)
 
 ## 製品概要
 ### 物流 X Tech
