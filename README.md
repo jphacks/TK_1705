@@ -1,6 +1,10 @@
 # あ、居なかったんで玄関先に置いときますね。
 
+<<<<<<< HEAD
 ![Product Name](https://github.com/jphacks/TK_1705/jphacks.mp4)
+=======
+[![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/SxLu6f-hn-4)
+>>>>>>> 0caae35b7634432f8888e987ecaff67bed08114d
 
 ## 製品概要
 ### 物流 X Tech
