@@ -1,4 +1,4 @@
-# あ、居なかったんで玄関先に置いときますね。
+# あ、居なかったんでここに置いときますね。
  
 
 [![Product Name](/image/samne.png)](https://youtu.be/SxLu6f-hn-4)
